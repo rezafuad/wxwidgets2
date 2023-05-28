@@ -1,0 +1,4 @@
+main.d
+obj/main.o
+.vscode/c_cpp_properties.json
+myapp.exe
